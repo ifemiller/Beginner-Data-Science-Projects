@@ -1,4 +1,4 @@
-# Beginner-Data-Science-Projects
+# Practicing XGBoost Machine Learning Technique
 
 To employ the new data science skills I have been learning, I have scoured the internet for beginner friendly data science projects. Starting with DataFlair:
 https://data-flair.training/blogs/data-science-project-ideas/
